@@ -73,7 +73,7 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 
 ```
 sudo -s
-bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/kacalayar/darv/master/install.sh)
 ```
 
 ### Deploy Bot on Heroku🏃‍♂
